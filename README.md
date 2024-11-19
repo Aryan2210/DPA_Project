@@ -1,4 +1,4 @@
-# **CSP 571 DPA Project**
+# **CSP 571 Data Preparation & Analysis Final Project**
 
 A project focused on detecting malicious URLs using machine learning techniques. This system analyzes URLs to classify them as benign or malicious, helping to protect users from phishing, malware, and other online threats. Includes a trained model and a Flutter-based mobile application for real-time detection and user-friendly access.
 
