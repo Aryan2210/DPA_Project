@@ -1,5 +1,6 @@
-# DPA_Project
-This repository contains the implementation and resources for my DPA (Data Processing and Analysis) Project. It focuses on designing efficient algorithms and workflows to process, analyze, and visualize complex datasets.
+# **CSP 571 DPA Project**
+
+A project focused on detecting malicious URLs using machine learning techniques. This system analyzes URLs to classify them as benign or malicious, helping to protect users from phishing, malware, and other online threats. Includes a trained model and a Flutter-based mobile application for real-time detection and user-friendly access.
 
 ---
 
